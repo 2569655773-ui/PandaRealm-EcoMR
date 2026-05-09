@@ -1,0 +1,20 @@
+# Unreal Engine
+Binaries/
+Build/
+Saved/
+Intermediate/
+DerivedDataCache/
+
+# Node
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.sln
+*.vcxproj
+*.vcxproj.user
